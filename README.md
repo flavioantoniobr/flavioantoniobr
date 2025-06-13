@@ -8,7 +8,7 @@ Acredito que o verdadeiro impacto da tecnologia nasce da união entre uma estrat
 
 ### 🚀 Inteligens: Meu Estúdio de Inovação
 
-A [**Inteligens**](https://github.com/inteligens) é a minha iniciativa e laboratório de exploração, onde materializo minha filosofia de trabalho. É o espaço onde desenvolvo projetos, protótipos e artigos sobre Engenharia de Dados e IA Aplicada para resolver desafios complexos.
+A [**Inteligens**](https://github.com/orgs/Inteligens-ai) é a minha iniciativa e laboratório de exploração, onde materializo minha filosofia de trabalho. É o espaço onde desenvolvo projetos, protótipos e artigos sobre Engenharia de Dados e IA Aplicada para resolver desafios complexos.
 
 ---
 
@@ -26,5 +26,5 @@ Minha atuação envolve um ecossistema de dados moderno, com foco em:
 
 ### 📫 Vamos nos conectar
 
-* **LinkedIn:** [linkedin.com/in/seu-perfil-aqui](https://www.linkedin.com/in/seu-perfil-aqui) * **Site & Portfólio:** [inteligens.com.br](https://www.inteligens.com.br)
+* **LinkedIn:** (https://www.linkedin.com/in/flavioantoniobr) * **Site & Portfólio:** [inteligens.com.br](https://www.inteligens.com.br)
 * **Email:** contato@inteligens.com.br
