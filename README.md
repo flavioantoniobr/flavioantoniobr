@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Flávio Antônio 👋
 
-<!--
-**flavioantoniobr/flavioantoniobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Estrategista e Arquiteto de Dados com mais de 20 anos de experiência, aplicando uma mentalidade de engenheiro para construir ecossistemas de dados robustos, eficientes e estratégicos.
 
-Here are some ideas to get you started:
+Acredito que o verdadeiro impacto da tecnologia nasce da união entre uma estratégia clara e uma execução técnica precisa e elegante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Inteligens: Meu Estúdio de Inovação
+
+A [**Inteligens**](https://github.com/inteligens) é a minha iniciativa e laboratório de exploração, onde materializo minha filosofia de trabalho. É o espaço onde desenvolvo projetos, protótipos e artigos sobre Engenharia de Dados e IA Aplicada para resolver desafios complexos.
+
+---
+
+### 🛠️ Ecossistema Tecnológico
+
+Minha atuação envolve um ecossistema de dados moderno, com foco em:
+
+* **Linguagens:** Python, C#, SQL
+* **Big Data & Processamento:** Spark, Airflow, Delta Lake
+* **Bancos de Dados & Armazenamento:** PostgreSQL, Elasticsearch, MinIO, Oracle
+* **Cloud & Infra:** AWS, GCP, Azure, Docker, Terraform
+* **BI & Visualização:** Power BI
+
+---
+
+### 📫 Vamos nos conectar
+
+* **LinkedIn:** [linkedin.com/in/seu-perfil-aqui](https://www.linkedin.com/in/seu-perfil-aqui) * **Site & Portfólio:** [inteligens.com.br](https://www.inteligens.com.br)
+* **Email:** contato@inteligens.com.br
