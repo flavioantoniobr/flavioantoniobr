@@ -26,7 +26,8 @@ Minha atuação envolve um ecossistema de dados moderno, com foco em:
 
 ### 📫 Vamos nos conectar
 
-* **LinkedIn:** https://www.linkedin.com/in/flavioantoniobr * **Site & Portfólio:** [inteligens.com.br](https://www.inteligens.com.br)
+* **LinkedIn:** [flavioantoniobr](https://www.linkedin.com/in/flavioantoniobr) 
+* **Site & Portfólio:** [inteligens.com.br](https://www.inteligens.com.br)
 * **Email:** contato@inteligens.com.br
 
 ---
