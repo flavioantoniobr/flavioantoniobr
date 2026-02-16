@@ -60,5 +60,6 @@ My work involves a modern data ecosystem, with a focus on:
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** https://www.linkedin.com/in/flavioantoniobr * **Website & Portfolio:** [inteligens.com.br](https://www.inteligens.com.br)
+* **LinkedIn:** [flavioantoniobr]https://www.linkedin.com/in/flavioantoniobr
+* **Website & Portfolio:** [inteligens.com.br](https://www.inteligens.com.br)
 * **Email:** contato@inteligens.com.br
